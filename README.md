@@ -1,6 +1,6 @@
 # mobileinfo
 
-> A Vue.js project
+This project use vueJS framework. The app allows users to browse or search mobile devices.
 
 ## Build Setup
 
