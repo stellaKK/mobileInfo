@@ -1,0 +1,40 @@
+@media (max-width: 500px) {
+  .back {
+    margin-top: 5px;
+    background-color: #9BAFBF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    width: 40%;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+}
+
+.back {
+  background-color: #9BAFBF;
+  color: #FFFFFF;
+  border-radius: 10px;
+  width: 20%;
+  text-align: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.back:hover {
+  background-color: #C3CCD3;
+}
+
+.detail_block {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.detail_block {
+  margin-top: 5px;
+  border-bottom: 1px dashed #E2E4EA;
+}
+
+.info {
+  color: #6479B7;
+}

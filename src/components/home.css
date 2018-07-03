@@ -1,0 +1,25 @@
+h1{
+  font-family: "Palatino Linotype", Sans-serif;
+  color: #152A4E;
+  font-size: 50px;
+}
+
+.home {
+  margin-top: 10%;
+  text-align: center;
+}
+
+
+.explore_btn {
+  text-decoration: none;
+  background-color: #A9BDE4;
+  padding: 10px;
+  border-radius: 30px;
+  color: #FFFFFF;
+}
+
+.explore_btn:hover {
+  border: 2px solid #DBE5EE;
+  background-color: #FFFFFF;
+  color: #A9BDE4;
+}
