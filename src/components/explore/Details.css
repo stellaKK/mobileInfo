@@ -11,18 +11,20 @@
   }
 }
 
-.back {
-  background-color: #9BAFBF;
-  color: #FFFFFF;
-  border-radius: 10px;
-  width: 20%;
-  text-align: center;
-  margin-bottom: 10px;
-  cursor: pointer;
-}
+@media (min-width: 500px) {
+  .back {
+    background-color: #9BAFBF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    width: 20%;
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
 
-.back:hover {
-  background-color: #C3CCD3;
+  .back:hover {
+    background-color: #C3CCD3;
+  }
 }
 
 .detail_block {
